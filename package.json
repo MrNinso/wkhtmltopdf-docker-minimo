@@ -1,0 +1,15 @@
+{
+  "name": "wkhtmltopdf-docker-minimo",
+  "version": "1.0.0",
+  "description": "A Docker image with just the libs for wkhtmltopdf and the wkhtmltopdf binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jheison.silva",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.3.1"
+  }
+}
